@@ -1,0 +1,65 @@
+commit 3bdd1c5357a79ef44d74a8af29e152ca8f4dc554
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Mon Feb 25 11:41:56 2019 -0500
+
+    README create, project done
+
+commit fd5d94eb71f4b05f74f50113017b0645f662b642
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Sun Feb 24 20:59:18 2019 -0500
+
+    Android transfer complete
+
+commit 5eda1e0905b72cbdd4d1d1c89eeab878a4082203
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Fri Feb 22 23:11:00 2019 -0500
+
+    Update: Game logics work
+
+commit 56a5f5d99612cc53925ed2af481a3c33571c1027
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Fri Feb 22 12:55:35 2019 -0500
+
+    Update: UI design Complete
+
+commit 4719f2537a10f8a117aaf1b9b987c43ecc308ead
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Fri Feb 22 11:04:52 2019 -0500
+
+    Update: UI tap to start
+
+commit cce3eaecd79eb908f7c419f2b4d571d20233929c
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Wed Feb 20 22:01:21 2019 -0500
+
+    Update controlling ball
+
+commit ac27278a32c8e76d81c6129148f146e72b94e892
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Tue Feb 19 22:38:31 2019 -0500
+
+    Update: Platforms built randomly
+
+commit cf96ed484b4bd712d237f8f1337d27b075ca5324
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Tue Feb 19 21:39:04 2019 -0500
+
+    base platform built
+
+commit 52276ec494129f7d099d6f563a18ba7d59abcb95
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Mon Feb 18 13:09:20 2019 -0500
+
+    Camera follow works
+
+commit 73d2b4eb9dc39ab5347d9e2036e5b8c966ac65a8
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Mon Feb 18 12:23:17 2019 -0500
+
+    Ball drop complete
+
+commit 3a0f8c31d38497742ca418c3359fe632d7fb2da3
+Author: Rajat Gupta <imrajatgupta@gmail.com>
+Date:   Mon Feb 18 11:44:10 2019 -0500
+
+    First commit
